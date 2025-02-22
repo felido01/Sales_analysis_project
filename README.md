@@ -71,12 +71,17 @@ The analysis focused on:
     
   - The **Central region** had the **highest sales and profit**.
     
-    <img src="Sale per Category.png" alt="Sales Trend" width="500">
+   
     
   - The **Consumer segment** had the Highest sales.
-
+    
+ 
+ 
 - **Category Insights:**
   - **Technology leads** in both sales and profit.
+  - 
+     <img src="Sale per Category.png" alt="Sales Trend" width="500">
+     
   - **Furniture, despite being the second-highest selling category, had the highest losses and the lowest profit**.
   - **Office Supplies, with the lowest sales, generates the second-highest profit and experiences the least loss**.
 
