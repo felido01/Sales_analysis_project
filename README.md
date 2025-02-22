@@ -2,7 +2,6 @@
 
 ## **Introduction**
 This project analyzes sales data to uncover trends, profitability, and shipping efficiency across different product categories. Using Python, Pandas, and Matplotlib, the goal is to derive key insights that can help businesses optimize their sales strategies and maximize revenue.
-     <img src="Introductory  image.png" alt="Sales Trend" width="1200">
 
 
 ---
