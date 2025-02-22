@@ -71,6 +71,7 @@ The analysis focused on:
     
   - The **Central region** had the **highest sales and profit**.
     
+     <img src="Sales per region.png" alt="Sales Trend" width="500">
    
     
   - The **Consumer segment** had the Highest sales.
