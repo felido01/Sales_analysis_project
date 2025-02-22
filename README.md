@@ -3,6 +3,9 @@
 ## **Introduction**
 This project analyzes sales data to uncover trends, profitability, and shipping efficiency across different product categories. Using Python, Pandas, and Matplotlib, the goal is to derive key insights that can help businesses optimize their sales strategies and maximize revenue.
 
+     <img src="Introductory image.png" alt="Sales Trend" width="500">
+
+
 ---
 
 ## **Project Overview**
@@ -71,7 +74,7 @@ The analysis focused on:
     
   - The **Central region** had the **highest sales and profit**.
     
-     <img src="Sales per region.png" alt="Sales Trend" width="500">
+     <img src="Sales per region.png" alt="Sales Trend" width="800">
    
     
   - The **Consumer segment** had the Highest sales.
@@ -81,7 +84,7 @@ The analysis focused on:
  
 - **Category Insights:**
   - **Technology leads** in both sales and profit.
-  - 
+  
      <img src="Sale per Category.png" alt="Sales Trend" width="500">
      
   - **Furniture, despite being the second-highest selling category, had the highest losses and the lowest profit**.
