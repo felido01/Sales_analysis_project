@@ -76,6 +76,7 @@ The analysis focused on:
     
   - The **Consumer segment** had the Highest sales.
     
+     <img src="Sales per segment.png" alt="Sales Trend" width="500">
  
  
 - **Category Insights:**
