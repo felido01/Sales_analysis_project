@@ -47,7 +47,7 @@ Data preparation was done using Google Sheets, where:
 - The **profit column** was split to separate **losses** from actual profits.
 - A **shipping duration column** was created by subtracting **order date** from **ship date** to analyze efficiency.
   
-  [Download Prepared dataset](Prepared Data.csv)
+  [Download Prepared dataset](https://github.com/felido01/Sales_analysis_project/blob/cb79191942c4c03528c77dbe0907be66f86b5a61/Prepared%20Data.csv)
 
 ### **3. Data Cleaning & Processing**
 Using **Pandas** in Python, the dataset was imported into a Jupyter Notebook for cleaning:
