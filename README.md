@@ -2,8 +2,7 @@
 
 ## **Introduction**
 This project analyzes sales data to uncover trends, profitability, and shipping efficiency across different product categories. Using Python, Pandas, and Matplotlib, the goal is to derive key insights that can help businesses optimize their sales strategies and maximize revenue.
-
-     <img src="Introductory image.png" alt="Sales Trend" width="500">
+     <img src="Introductory  image.png" alt="Sales Trend" width="1200">
 
 
 ---
@@ -47,6 +46,8 @@ This stage involves defining Goals and understanding stakeholder expectations fr
 Data preparation was done using Google Sheets, where:
 - The **profit column** was split to separate **losses** from actual profits.
 - A **shipping duration column** was created by subtracting **order date** from **ship date** to analyze efficiency.
+  
+  [Download Prepared dataset](Prepared Data.csv)
 
 ### **3. Data Cleaning & Processing**
 Using **Pandas** in Python, the dataset was imported into a Jupyter Notebook for cleaning:
