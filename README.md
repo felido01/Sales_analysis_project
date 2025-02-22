@@ -63,7 +63,7 @@ The analysis focused on:
 - **Shipping Efficiency Evaluation**
 - **Impact of Discounts on Profitability**
 - **Regional and Customer Segment Insights**
-
+[View the Full Analysis in Python]()
 ---
 
 ## **Key Findings**
