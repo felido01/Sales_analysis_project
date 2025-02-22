@@ -137,3 +137,4 @@ This analysis provides key insights into **sales trends, profitability, discount
 
 ---
 
+Data Analyst: Felix Idowu.
