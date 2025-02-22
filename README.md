@@ -68,8 +68,10 @@ The analysis focused on:
   - Sales have **increased over the years**.
 
     <img src="Sales Trend over time.png" alt="Sales Trend" width="500">
+    
   - The **Central region** had the **highest sales and profit**.
-    <img src="Sales per Category.png" alt="Sales Trend" width="500">
+    
+    <img src="Sale per Category.png" alt="Sales Trend" width="500">
     
   - The **Consumer segment** had the Highest sales.
 
