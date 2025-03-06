@@ -103,6 +103,9 @@ The analysis focused on:
   - **Order priority is well-managed**, ensuring shipping efficiency.
   - The time taken to ship products aligns with the order priority system.
 
+- **Visualization:**
+  - [View Dashboard](https://app.powerbi.com/links/PSaHjGBs_9?ctid=a36e1a13-c829-4154-8635-f2516711db50&pbi_source=linkShare)
+  - Note that a powerbi account is neccessary to view Dashboard
 ---
 
 ## **Recommendations**
