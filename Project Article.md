@@ -90,10 +90,39 @@ The analysis focused on:
   - **Furniture, despite being the second-highest selling category, had the highest losses and the lowest profit**.
   - **Office Supplies, with the lowest sales, generates the second-highest profit and experiences the least loss**.
 
-- **Product Performance:**
-  - **Phones are the highest-selling sub-category** and are heavily discounted, causing potential losses. Fortunately, the Profit earned is higher than that of loss.
-  - The **least sold product is also the least discounted**, which may indicate low demand due to pricing.
-  - **Apple Smartphones are the best-selling product**, while **Disposable Bags have the lowest sales**.
+- ## 🔍 Identify the Top-Selling Products and Categories  
+### 📦 Product and Category Sales Overview
+
+Analysis of sales data revealed clear trends in product and category performance:
+
+- **Top-Selling Products**:  
+  - The highest-grossing product is the **Apple Smart Phone, Full Size**, with sales exceeding **86,000** units.
+  - Other notable high performers include smart phones from **Cisco**, **Motorola**, **Nokia**, and **Samsung**, indicating that **consumer electronics** — particularly **smartphones** — dominate product-level sales.
+  - High-value **office furniture** products such as **Executive Leather Armchairs** and **Canon Copiers** also rank among the top sellers, suggesting strong demand in business and professional segments.
+
+- **Top-Selling Categories**:  
+  - **Technology** leads in total sales, followed by **Furniture** and **Office Supplies**.
+  - The Technology category not only contributes the most to overall revenue but also yields the highest profits, making it the most valuable business segment.
+  - Furniture and Office Supplies, while generating lower revenue, still provide significant contributions and suggest a balanced portfolio of both consumer and enterprise-focused products.
+
+---
+
+## 📈 Sales Trend Analysis by Country, Region, and Market
+
+- **By Country**:
+  - The **United States** is by far the largest market, accounting for the majority of global sales.
+  - Countries like **Australia**, **France**, **China**, and **Germany** follow, making them key international markets.
+  - Sales in many other countries remain low, indicating opportunities for market expansion or localized marketing efforts.
+
+- **By Region**:
+  - Regions such as **Central**, **South**, and **Oceania** dominate in sales performance.
+  - **Southeast Asia**, **North Asia**, and **Africa** also represent important markets with significant sales volume.
+  - **Canada** and parts of **Europe** show moderate sales, which may benefit from targeted campaigns.
+
+- **By Market**:
+  - Urbanized and economically advanced regions tend to perform better, reinforcing the importance of demographic targeting.
+  - The distribution indicates a concentration of demand in regions with high digital penetration, purchasing power, and business infrastructure.
+
 
 - **Impact of Discounts on Profitability:**
   - **Sales with discounts greater than 50% is Observed to result in a loss**.
