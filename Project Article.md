@@ -8,7 +8,7 @@ In this project, I analyzed a comprehensive sales dataset to identify key trends
 ---
 
 ## **Project Overview**
-This project explores a sales dataset using Python and its analytical libraries, with Google Sheets as an auxiliary tool for data preparation. It serves as a demonstration of my proficiency in Python for data analysis, as well as my ability to think critically and derive actionable insights from data.
+This project explores a sales dataset using Python and its analytical libraries afterwards building a sales dashboard for better comprehension. It serves as a demonstration of my proficiency in Python for data analysis, as well as my ability to think critically and derive actionable insights from data.
 
 ---
 
@@ -174,7 +174,7 @@ This analysis provides key insights into **sales trends, profitability, discount
 ## **Tools Used**
 - **Python** (Pandas, Matplotlib, Seaborn)
 - **Jupyter Notebook**
-- **Google Sheets**
+- **Power BI**
 
 ---
 
